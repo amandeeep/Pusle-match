@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+[data-rmiz-modal-overlay="visible"] {
+  background-color: rgba(2, 4, 10, 0.85) !important;
+}
